@@ -1,0 +1,1008 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-KF2QCR2J');
+  </script>
+  <!-- End Google Tag Manager -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Noto+Sans+JP:wght@100..900&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="js/common.js"></script>
+  <title>FDA認証こそ、アメリカ輸出のパスポート。| 取得後の成長まで、一緒に走り続けます。</title>
+  <link rel="icon" href="./img/favicon.jpg">
+  <meta name="description"
+    content="食品・化粧品・医療機器など、アメリカ輸出に不可欠なFDA認証をワンストップで支援。書類作成からラベル対応、輸出後の維持管理まで、検証から成長まで伴走し、3億人規模の米国市場への確かな扉を開きます。">
+
+  <!-- Begin Mieruca Embed Code -->
+  <script type="text/javascript" id="mierucajs">
+    window.__fid = window.__fid || [];
+    __fid.push([253915040]);
+    (function () {
+      function mieruca() {
+        if (typeof window.__fjsld != "undefined") return;
+        window.__fjsld = 1;
+        var fjs = document.createElement('script');
+        fjs.type = 'text/javascript';
+        fjs.async = true;
+        fjs.id = "fjssync";
+        var timestamp = new Date;
+        fjs.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://hm.mieru-ca.com/service/js/mieruca-hm.js?v=' + timestamp.getTime();
+        var x = document.getElementsByTagName('script')[0];
+        x.parentNode.insertBefore(fjs, x);
+      };
+      setTimeout(mieruca, 500);
+      document.readyState != "complete" ? (window.attachEvent ? window.attachEvent("onload", mieruca) : window
+        .addEventListener("load", mieruca, false)) : mieruca();
+    })();
+  </script>
+  <!-- End Mieruca Embed Code -->
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KF2QCR2J" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <section>
+    <header class="l-header">
+      <a href="/" class="l-header_logo"><img src="img/logo.png" alt="world SHiFT"></a>
+      <a href="https://docs.google.com/forms/d/1zrC5GGbuxrSzeoizs050cq1QrmbP8LljNRT2SifaG6g/edit" class="c-btn">お問い合わせはこちら</a>
+    </header>
+    <h1 class="p-fv">
+      FDA認証こそ、<br>アメリカ輸出のパス<br class="u-sp">ポート。<br>
+      <small class="u-title">取得後の成長まで、<br class="u-sp">一緒に走り続けます。</small>
+    </h1>
+    <section class="p-sum">
+      <figure class="p-sum_img"><img src="img/fig_fv02.png" alt=""></figure>
+      <h2 class="p-sum_title u-en"><small>FDA-Certified Products</small>Market <br class="u-sp">Potential</h2>
+      <p class="u-em">
+        FDAの管轄する製品は、食品・化粧品・健康食品をはじめ、<br class="u-pc">
+        医薬品・医療機器・動物用製品など多岐にわたり、<br class="u-pc">
+        いずれもアメリカでは安全性や品質が重視され、<br><br>
+        <em class="u-title">生活の質を高めたい</em>というニーズを背景に<br class="u-pc">
+        <em class="u-title">安定した需要</em>があります。<br><br>
+        その中でも、食品分野では日本食市場が
+      </p>
+      <img src="img/fig_sum.png" alt="" class="p-sum_graph">
+      <p class="u-em">
+        <em class="u-title">過去10年間で4倍以上に</em> 拡大し、<br class="u-pc">
+        <em class="u-title">約150億ドル規模</em>に成長。<br><br>
+        化粧品市場は米国だけで630億ドル超の巨大マーケット。<br class="u-pc">
+        健康食品分野も年5％以上の成長率を維持しており、<br class="u-pc">
+        確実な需要が見込まれています。
+      </p>
+      <p class="p-sum_conclusion">
+        日本製品全般に対しては「<em>高品質で信頼できる</em>」という<br class="u-pc">
+        評価が根強く、FDA認証を取得することで<br class="u-pc">
+        <em>現地の消費者やバイヤーから選ばれる</em>確率が一層高まります。
+      </p>
+    </section>
+    <section class="p-worries">
+      <h2 class="c-title">
+        <span class="c-title_en">Common Worries</span>
+        <span class="u-title">こんなお悩みありませんか</span>
+      </h2>
+      <figure class="p-worries_detail">
+        <img src="img/fig_worries.png"
+          alt="海外の展示会や問い合わせはあるけれど、輸出の具体的な仕組みが整っていない 国内では売上が安定してきたけど、次の成長の場を海外に広げたい 輸出を始めたくても、法規制やルールが複雑で整理しきれない　とりあえずアメリカで売ってみたいが、仕組みが複雑そう　せっかくの依頼を受けても、FDA対応を理由に案件を断らざるを得ないことがある">
+      </figure>
+    </section>
+    <section class="p-solution">
+      <h2 class="c-title">
+        <span class="c-title_en">Our solutions</span>
+        <span class="u-title">私たちなら、こう解決できます！</span>
+      </h2>
+      <div class="p-solution_lists">
+        <div class="p-solution_lists_col">
+          <section class="p-solution_list u-bxsdw">
+            <h3 class="u-title">案件を断らずに受けられる<br>仕組みづくり</h3>
+            <figure class="p-solution_list_icon"><img src="img/icon_solution01.jpg" alt=""></figure>
+            <p class="c-text">
+              FDA登録や規制対応を<em>ワンストップで代行</em>。<br>
+              OEM工場やブランド企業が自社だけでは難しい申請・施設登録・ラベル表示などを一括でサポートし、輸出案件を断らずに前に進めるようサポートします。<br>
+              御社の商品が<em>よりグローバルに展開できる仕組みづくり</em>を行います。
+            </p>
+          </section>
+          <section class="p-solution_list u-bxsdw">
+            <h3 class="u-title">展示会や引き合いを<br>実際のビジネスにつなげる</h3>
+            <figure class="p-solution_list_icon"><img src="img/icon_solution02.jpg" alt=""></figure>
+            <p class="c-text">
+              FDA認証を取得していれば、「認証がなくて受注できない」といった<em>機会損失を防げます</em>。<br>
+              せっかくの海外バイヤーとの接点も、次の商談・成約・販売へとつなげる道が開けます。さらに<em>FDA認証という信頼の証</em>を持つことで、これまで以上に依頼や引き合いが集まり、ビジネスの広がりを加速させる未来を実現できます。
+            </p>
+          </section>
+        </div>
+        <div class="p-solution_lists_col">
+          <section class="p-solution_list u-bxsdw">
+            <h3 class="u-title">成長の次フェーズを見据えた<br>海外展開</h3>
+            <figure class="p-solution_list_icon"><img src="img/icon_solution03.jpg" alt=""></figure>
+            <p class="c-text">
+              まず市場調査で「<em>どのくらいの需要と利益が見込めるのか</em>」を数値で可視化。<br>
+              そのうえで、国内の安定した売上を基盤に、アメリカ市場に合わせた新しい成長シナリオを描きます。FDA認証の取得をスタート地点として、その後の販売・物流・ブランド構築まで<em>一貫して支援</em>し、御社の海外展開を<em>長期的に成功</em>へ導きます。
+            </p>
+          </section>
+          <section class="p-solution_list u-bxsdw">
+            <h3 class="u-title">初めてのアメリカ販売も<br>複雑な規制もシンプルに</h3>
+            <figure class="p-solution_list_icon"><img src="img/icon_solution04.jpg" alt=""></figure>
+            <p class="c-text">
+              ご希望に沿ったビジネスに合わせて、最適な販路をご提案します。それぞれの販路に応じた<em>“最初の一歩”</em>として、認証に関する対応だけにとどまらず、物流や販売方法まで幅広くサポート。複雑なことが多い海外輸出だからこそ、<em>すべてをカバーできるプロにお任せください</em>。確実で安心できる一歩を実現します。
+            </p>
+          </section>
+        </div>
+      </div>
+    </section>
+    <section class="p-future">
+      <h2 class="c-enTitle">Future<span><small class="u-title">FDAを取ると広がる未来</small></span></h2>
+      <ul class="p-future_list">
+        <li>
+          <img src="img/fig_future01.jpg" alt="">
+          <p class="u-title"><span>アメリカへの正規輸出が可能になり、<br class="u-pc"><em>3億人超の巨大市場</em>に参入できる</span></p>
+        </li>
+        <li>
+          <img src="img/fig_future02.jpg" alt="">
+          <p class="u-title"><span>「<em>安全・品質の証明</em>」として現地消費者や<br class="u-pc">バイヤーから<em>選ばれる存在</em>に</span></p>
+        </li>
+        <li>
+          <img src="img/fig_future03.jpg" alt="">
+          <p class="u-title"><span>通関や検査で止められるリスクを抑え、<br class="u-pc"><em>スムーズに販売をスタートできる</em></span></p>
+        </li>
+      </ul>
+    </section>
+
+
+
+    <a href="https://docs.google.com/forms/d/1zrC5GGbuxrSzeoizs050cq1QrmbP8LljNRT2SifaG6g/edit" class="l-cta">
+      <p class="u-title">その商品、アメリカで<br class='u-sp'>売れるかもしれません。</p>
+      <p class="c-text">FDAの対象かどうか、そして実際に市場で売れそうか、私たちと一緒に確認してみませんか？</p>
+      <p class="c-btn">無料で確認する</p>
+    </a>
+    <section class="p-fda">
+      <h2 class="c-enTitle">
+        FDA
+        <span>
+          <b class="c-bigTitle">そもそも</b>
+          <em class="u-title">FDA認証の取得はどうすればいいの？</em>
+        </span>
+      </h2>
+      <p class="c-text">
+        アメリカのマーケットに進出するには、まずFDA認証の取得が必要。<br class="u-pc">
+        しかし、このFDA認証の取得には、<em class="u-em">多くのハードルが存在します。</em>
+      </p>
+      <ul class="p-fda_list">
+        <li class="u-title">成分調査</li>
+        <li class="u-title">FDAアカウント新規登録</li>
+        <li class="u-title">施設登録</li>
+        <li class="u-title">成分表示作成</li>
+        <li class="u-title">Proposition65チェック</li>
+        <li class="u-title">ラベル作成</li>
+        <li class="u-title">輸出の事前申告</li>
+        <li class="u-title">海外物流</li>
+      </ul>
+      <p class="u-em">
+        自社でこれらを対応しようとすると、<br class="u-pc">
+        まず<em class="u-title">専門的な知識を持つ人材の確保</em>や、<br class="u-pc">
+        各種<em class="u-title">実務を担うスタッフの手配</em>が必要となります。<br><br>
+        その結果、人件費や工数といったコストが大きくのしかかり、<br class="u-pc">
+        <em class="u-title">膨大な時間と労力を要する</em>ことになります。
+      </p>
+    </section>
+    <section class="p-appeal">
+      <h2 class="c-bigTitle">だから<br><span class="u-title">これらはすべて弊社に<br class="u-sp">お任せください！</span></h2>
+      <p class="u-em">
+        自社の人員や時間を増やすことなく、<br class="u-pc">
+        <span class="u-title">誰でも簡単に</span><br class="u-pc">
+        アメリカ市場への参入を実現できる環境をお届けします。
+      </p>
+      <p class="u-title">手間のかかる作業はすべて弊社で対応。</p>
+      <img class="p-appeal_img" src="img/fig_appeal.png" alt="">
+      <p class="u-title">あなたは、理想の未来を描くだけでOK。</p>
+      <p class="p-appeal_catch">
+        <span class="u-em">アメリカ市場への道筋は、</span><br>
+        私たちがすべて整えます。
+      </p>
+    </section>
+    <section class="p-if">
+      <div class="p-if_sum">
+        <p class="p-if_sum_en">WorldShift</p>
+        <h2 class="c-bigTitle">
+          もしも<br>
+          <span class="u-title">こんな場合は<br>私たちにご相談ください！</span>
+        </h2>
+        <p class="c-text">私たちは、食品・化粧品・健康食品などのFDA認証が必要となる商品について、初めての企業様でも安心して進められるよう、ワンストップで支援いたします。</p>
+      </div>
+      <ul class="p-if_list">
+        <li class="u-bxsdw">
+          <h3 class="u-em">必要な認証がわからない</h3>
+          <p class="c-text">自社の商品がFDAの対象になるのか、どんな認証や登録が必要なのか分からない</p>
+        </li>
+        <li class="u-bxsdw">
+          <h3 class="u-em">どこから始めればいいか分からない</h3>
+          <p class="c-text">FDA認証の取得を検討しているけれど、最初に何をすべきかが分からない</p>
+        </li>
+        <li class="u-bxsdw">
+          <h3 class="u-em">書類作成・申請が不安</h3>
+          <p class="c-text">英語での書類作成やFDAへの申請手続きが複雑で、自分で進めるのが難しい</p>
+        </li>
+        <li class="u-bxsdw">
+          <h3 class="u-em">時間とコストが読めない</h3>
+          <p class="c-text">どのくらいの期間や費用がかかるのか不透明で、事業計画を立てづらい</p>
+        </li>
+        <li class="u-bxsdw">
+          <h3 class="u-em">輸出後の運用に不安</h3>
+          <p class="c-text">認証取得後の維持・更新やトラブル対応が分からない</p>
+        </li>
+        <li class="u-bxsdw">
+          <h3 class="u-em">代行会社の選び方が分からない</h3>
+          <p class="c-text">サポートを依頼したいけど、どこに頼めば安心なのか判断できない</p>
+        </li>
+        <li class="u-bxsdw">
+          <h3 class="u-em">ラベル対応に困っている</h3>
+          <p class="c-text">
+            ・認証取得後の維持・FDA基準に沿ったラベルをどう作ればいいのか分からない<br>
+            ・原材料や栄養成分を英語でどう表記したらよいのか迷っている
+          </p>
+        </li>
+        <li class="u-bxsdw">
+          <h3 class="u-em">英語の壁を感じる</h3>
+          <p class="c-text">FDAとのやり取りや規定文書がすべて英語で、内容を理解できない</p>
+        </li>
+      </ul>
+    </section>
+
+
+
+    <a href="https://docs.google.com/forms/d/1zrC5GGbuxrSzeoizs050cq1QrmbP8LljNRT2SifaG6g/edit" class="l-cta">
+      <p class="u-title">FDA認証、どこから始めれば<br class='u-sp'>いいか<br class='u-pc'>一緒に<br class='u-sp'>整理しましょう！</p>
+      <p class="c-text">初めての方も、過去に悩んだ方も<br class='u-sp'>安心してご相談ください。</p>
+      <p class="c-btn">ステップを確認する</p>
+    </a>
+    <section class="p-service">
+      <h2 class="c-title">
+        <span class="c-title_en">Service</span>
+        <span class="u-title">ワールドシフトの4つの強み</span>
+      </h2>
+      <p class="u-em">認証を“取る”だけでは<br class="u-sp">終わらせない。</p>
+      <p class="p-service_flow"><img src="img/txt_strength.png" alt="設計、承認、流通、運用"></p>
+      <p class="u-em">「設計 → 認証 → 流通 → 運用」<br class="u-sp">まで、<br>海外で“<em>売れ続ける仕組み</em>”を<br class="u-sp">一緒にデザインします。</p>
+      <ul class="p-service_list">
+        <li>
+          <div class="p-service_list_info">
+            <h3 class="title">
+              <span class="num">01</span>
+              <span class="u-title">戦略から並走する<br> “FDA戦略パートナー”</span>
+            </h3>
+            <p class="c-text">
+              単なる申請代行ではなく、「どんな戦略で認証を活かすか」から<em>一緒に考えるのがワールドシフトのスタイル</em>。<br>
+              まずは商品の特性や強みをもとに、「どんな市場にニーズがあるのか」「どう売れそうか」「どんな形で展開していきたいのか」などを整理。その全体像を描いた上で、<em>事業設計に沿った認証取得を二人三脚で進めます</em>。<br><br>
+              認証はゴールではなく、<em>海外展開のスタート</em>。<br>
+              ワールドシフトは、その最初の一歩から伴走します。
+            </p>
+          </div>
+          <figure class="p-service_list_thumb"><img src="img/fig_strength01.jpg" alt=""></figure>
+        </li>
+        <li>
+          <div class="p-service_list_info">
+            <h3 class="title">
+              <span class="num">02</span>
+              <span class="u-title">面倒な手続きも<br>“3ステップ完結” のスピード対応</span>
+            </h3>
+            <p class="c-text">
+              書類準備・英語対応・登録作業まで、<em>専門知識ゼロで完結</em>。<br>
+              複雑な英語対応や法令チェックも、専任チームが一括代行します。<br><br>
+              スピードと確実性で、<em>最短の認証取得を実現</em>します。
+            </p>
+          </div>
+          <figure class="p-service_list_thumb"><img src="img/fig_strength02.jpg" alt=""></figure>
+        </li>
+        <li>
+          <div class="p-service_list_info">
+            <h3 class="title">
+              <span class="num">03</span>
+              <span class="u-title">認証後の“継続運用”まで<br>トータルサポート</span>
+            </h3>
+            <p class="c-text">
+              FDA認証は“取得して終わり”ではありません。<br>
+              登録の更新手続きや事前通知対応、FSVPエージェントとの連携、追加製品登録など──<br>
+              すべてが“<em>継続的な運用</em>”を必要とします。<br>
+              ワールドシフトでは、認証後の運用・更新・監査対応を含め、<br>
+              <em>「海外販売が続く仕組み」まで設計・実行</em>します。
+            </p>
+          </div>
+          <figure class="p-service_list_thumb"><img src="img/fig_strength03.jpg" alt=""></figure>
+        </li>
+        <li>
+          <div class="p-service_list_info">
+            <h3 class="title">
+              <span class="num">04</span>
+              <span class="u-title">認証×輸出に精通した<br>“二刀流チーム”</span>
+            </h3>
+            <p class="c-text">
+              認証の専門家と、Amazon／物流／マーケティングの実務チームが社内連携。<br>
+              単なる「代行会社」ではなく、<em>“認証を売上につなげる”総合支援体制</em>を構築しています。<br><br>
+              だからこそ、<em>認証から実際の海外販売・FBA納品・広告運用まで</em>、<br>
+              ワンストップで完結できるのがワールドシフトの強みです。
+            </p>
+          </div>
+          <figure class="p-service_list_thumb"><img src="img/fig_strength04.jpg" alt=""></figure>
+        </li>
+      </ul>
+    </section>
+
+
+
+    <a href="https://docs.google.com/forms/d/1zrC5GGbuxrSzeoizs050cq1QrmbP8LljNRT2SifaG6g/edit" class="l-cta">
+      <p class="u-title">次は、御社の商品を<br class='u-sp'>海外市場へ。</p>
+      <p class="c-text">今すぐ一緒に、最初の一歩を<br class='u-sp'>踏み出しましょう。</p>
+      <p class="c-btn">まずは相談してみる</p>
+    </a>
+    <section class="p-support">
+      <h2 class="c-title">
+        <span class="c-title_en">Our supports</span>
+        <span class="u-title">サポート内容</span>
+      </h2>
+      <section class="p-support_detail">
+        <h3 class="u-title">サービス一覧</h3>
+        <ul class="p-support_detail_list">
+          <li>
+            <figure class="thumb"><img src="img/fig_support01.jpg" alt=""></figure>
+            <h4 class="u-em">相談サポート</h4>
+            <p class="c-text">初回無料相談</p>
+          </li>
+          <li>
+            <figure class="thumb"><img src="img/fig_support02.jpg" alt=""></figure>
+            <h4 class="u-em">規制・成分確認</h4>
+            <p class="c-text">栄養成分規制チェック、<br>Proposition 65調査</p>
+          </li>
+        </ul>
+        <ul class="p-support_detail_list">
+          <li>
+            <figure class="thumb"><img src="img/fig_support03.jpg" alt=""></figure>
+            <h4 class="u-em">登録・認証サポート</h4>
+            <p class="c-text">FDAアカウント新規作成、<br>施設登録、更新など</p>
+          </li>
+          <li>
+            <figure class="thumb"><img src="img/fig_support04.jpg" alt=""></figure>
+            <h4 class="u-em">ラベル作成</h4>
+            <p class="c-text">成分表示作成、ラベル作成</p>
+          </li>
+          <li>
+            <figure class="thumb"><img src="img/fig_support05.jpg" alt=""></figure>
+            <h4 class="u-em">物流</h4>
+            <p class="c-text">事前申告、発送業務代行</p>
+          </li>
+        </ul>
+      </section>
+      <ul class="p-support_other">
+        <li class="u-bxsdw">
+          <h4 class="u-em">スポット依頼</h4>
+          <p class="c-text">必要な業務だけをピンポイントで依頼できるので、コストを抑えながら柔軟に活用可能です。</p>
+        </li>
+        <li class="u-bxsdw">
+          <h4 class="u-em">パック依頼</h4>
+          <p class="c-text">一括でまとめてご依頼いただけるため、煩雑な手続きをすべてサポート。スポット依頼よりも手軽にご利用いただけます。</p>
+        </li>
+      </ul>
+      <p class="u-em">まずは無料相談にて、<br class="u-sp">お客様に本当に必要なサポートを<br>一緒に確認させていただきます。</p>
+    </section>
+    <section class="p-plan">
+      <h3 class="u-em">月額サポートサービス</h3>
+      <ul class="p-plan_list">
+        <li>
+          <h4 class="p-plan_list_title">ライトプラン</h4>
+          <p class="p-plan_list_text">必要最低限の安心を、<br>シンプルに。</p>
+          <ul class="p-plan_list_list">
+            <li>施設更新保証</li>
+            <li class="disabled">FDA事前申告</li>
+            <li class="disabled">個別相談</li>
+            <li class="disabled">FDA事前申告（無制限）</li>
+            <li class="disabled">個別相談（無制限）</li>
+          </ul>
+        </li>
+        <li>
+          <h4 class="p-plan_list_title">スタンダードプラン</h4>
+          <p class="p-plan_list_text">サポートは欲しいけど<br>コストは抑えたい方へ。</p>
+          <ul class="p-plan_list_list">
+            <li>施設更新保証</li>
+            <li>FDA事前申告</li>
+            <li>個別相談</li>
+            <li class="disabled">FDA事前申告（無制限）</li>
+            <li class="disabled">個別相談（無制限）</li>
+          </ul>
+        </li>
+        <li>
+          <h4 class="p-plan_list_title">プレミアムプラン</h4>
+          <p class="p-plan_list_text">申告も相談も無制限。<br>成長を続ける事業に、確かな備えを。</p>
+          <ul class="p-plan_list_list">
+            <li>施設更新保証</li>
+            <li class="disabled">FDA事前申告</li>
+            <li class="disabled">個別相談</li>
+            <li>FDA事前申告<em>（無制限）</em></li>
+            <li>個別相談<em>（無制限）</em></li>
+          </ul>
+        </li>
+      </ul>
+      <p class="u-em">
+        FDA認証は認証を取って終わりではなく、<br class="u-pc">
+        <em class="u-title">認証を維持することも重要です。</em><br><br>
+
+        そして認証は目的ではなく手段です。<br><br>
+
+        実際にアメリカに輸出して販売できてこそ価値が生まれます。<br class="u-pc">
+        私たちは<em class="u-title">その後のビジネス展開</em>を継続的にサポートします。<br><br>
+
+        必要なサポートをあなたのビジネス展開に合わせて柔軟に選べます。
+      </p>
+    </section>
+    <section class="p-compare">
+      <h2 class="c-title">
+        <span class="c-title_en">Service <br class="u-sp">comparison</span>
+        <span class="u-title">サービス比較</span>
+      </h2>
+      <div class="p-compare_detail">
+        <div class="p-compare_detail_head">
+          <div class="header"></div>
+          <div class="body">
+            <p class="cell">スポット<br class="u-sp">依頼</p>
+            <p class="cell">更新<br class="u-sp">管理</p>
+            <p class="cell">事前<br class="u-sp">申告</p>
+            <p class="cell">物流<br class="u-sp">提供</p>
+            <p class="cell">相談</p>
+            <p class="cell">その他<br class="u-sp">広告運用</p>
+          </div>
+        </div>
+        <div class="p-compare_detail_main">
+          <p class="header">ワールドシフト</p>
+          <div class="body">
+            <p class="cell">
+              <span class="cell_mark">◎</span>
+              <span class="cell_text">スポットでの依頼から、まとめての依頼<br>まで柔軟に対応可能</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">◎</span>
+              <span class="cell_text">更新日の管理から、<br>自動更新まで対応可能</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">◎</span>
+              <span class="cell_text">毎回の依頼に加え、月額での利用契約<br>により無制限にご利用可能</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">◎</span>
+              <span class="cell_text">物流サービスを通じて海外進出に必要<br>な一連の対応が可能</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">◎</span>
+              <span class="cell_text">初回相談は無料で実施（基本的に時間<br>制限なし、内容によっては変動あり）</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">◎</span>
+              <span class="cell_text">認証取得後の現地マーケティング支援<br>を提供、集客もサポート</span>
+            </p>
+          </div>
+        </div>
+        <div class="p-compare_detail_other">
+          <p class="header">他社</p>
+          <div class="body">
+            <p class="cell">
+              <span class="cell_mark">×</span>
+              <span class="cell_text">パック提供のみ</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">×</span>
+              <span class="cell_text">自社での管理のみ</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">△</span>
+              <span class="cell_text">都度依頼のみ</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">△</span>
+              <span class="cell_text">基本未提供（一部限定対応あり）</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">△</span>
+              <span class="cell_text">時間制限つきの無料相談のみ</span>
+            </p>
+            <p class="cell">
+              <span class="cell_mark">×</span>
+              <span class="cell_text"></span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="p-qa">
+      <h2 class="c-title">
+        <span class="c-title_en">Q＆A</span>
+        <span class="u-title">よくある質問</span>
+      </h2>
+      <dl class="p-qa_list">
+        <div>
+          <dt class="js-toggle"><span class="label">Q1</span><span class="c-text">認証にかかる費用はどれくらいですか？</span></dt>
+          <dd class="js-toggleCont">
+            <div class="inner">
+              <div class="inner_cont">
+                <span class="label">A</span><span
+                  class="c-text">商品や手続きの内容によって変わります。無料相談にて必要な手続きを確認し、そのうえで概算費用をお伝えさせていただきます。</span>
+              </div>
+            </div>
+          </dd>
+        </div>
+        <div>
+          <dt class="js-toggle"><span class="label">Q2</span><span class="c-text">自社で進めるのと、専門サポートを依頼するのとで何が違いますか？</span>
+          </dt>
+          <dd class="js-toggleCont">
+            <div class="inner">
+              <div class="inner_cont">
+                <span class="label">A</span><span
+                  class="c-text">自社で行う場合、英語での書類作成や規定解釈に時間がかかり、間違いによる差し戻しリスクもあります。専門サポートを活用することで、短期間で正確に手続きを進められる点が大きな違いです。</span>
+              </div>
+            </div>
+          </dd>
+        </div>
+        <div>
+          <dt class="js-toggle"><span class="label">Q3</span><span class="c-text">一度登録したら終わりですか？</span></dt>
+          <dd class="js-toggleCont">
+            <div class="inner">
+              <div class="inner_cont">
+                <span class="label">A</span><span
+                  class="c-text">いいえ。FDA施設登録は「偶数年ごと」に更新が必要です。更新を忘れると輸出ができなくなる可能性があります。<br>また、食品の場合は輸出のたびに「事前の輸入者通知（Prior
+                  Notice）」を提出しなければなりません。こうした継続的な手続きも当社でサポートいたしますので、ご安心ください。</span>
+              </div>
+            </div>
+          </dd>
+        </div>
+        <div>
+          <dt class="js-toggle"><span class="label">Q4</span><span class="c-text">英語が全くできなくても大丈夫ですか？</span></dt>
+          <dd class="js-toggleCont">
+            <div class="inner">
+              <div class="inner_cont">
+                <span class="label">A</span><span
+                  class="c-text">はい、大丈夫です。FDAとのやり取りや英語書類の作成はすべて当社で代行いたします。お客様には日本語で確認いただくだけで進められる仕組みになっています。</span>
+              </div>
+            </div>
+          </dd>
+        </div>
+        <div>
+          <dt class="js-toggle"><span class="label">Q5</span><span class="c-text">ラベル作成はサポートしてもらえますか？</span></dt>
+          <dd class="js-toggleCont">
+            <div class="inner">
+              <div class="inner_cont">
+                <span class="label">A</span><span
+                  class="c-text">はい、可能です。FDAが求める栄養成分表示や原材料表記を踏まえ、英語でのラベル表記の作成をサポートいたします。</span>
+              </div>
+            </div>
+          </dd>
+        </div>
+        <div>
+          <dt class="js-toggle"><span class="label">Q6</span><span class="c-text">他社で対応できなかった案件も相談できますか？</span></dt>
+          <dd class="js-toggleCont">
+            <div class="inner">
+              <div class="inner_cont">
+                <span class="label">A</span><span
+                  class="c-text">はい、可能です。過去に他社で途中まで進めたが止まってしまったケースや、認証が難しいと言われた商品でも、まずは無料相談で現状を確認いたします。FDAの規定に照らし合わせて、対応の可否や改善策をご案内しますので、お気軽にご相談ください。</span>
+              </div>
+            </div>
+          </dd>
+        </div>
+      </dl>
+    </section>
+    <hgroup class="p-contact">
+      <h2 class="c-title">
+        <span class="c-title_en">Contact</span>
+        <!-- <span class="u-title">お問い合わせはこちら</span> -->
+      </h2>
+      <a href="https://docs.google.com/forms/d/1zrC5GGbuxrSzeoizs050cq1QrmbP8LljNRT2SifaG6g/edit" class="c-btn">お問い合わせはこちら</a>
+
+      <!-- <form id="googleForm" class="p-contact_form" method="POST"
+        action="https://docs.google.com/forms/d/e/1FAIpQLSfKvrOoKesNQIHIqQLMiSXB6ueetyhGlDiZ2-S0dbsvEmwKEA/formResponse">
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">会社名<span class="required">*</span></p>
+          <input type="text" name="entry.1125813268" placeholder="会社名を入力してください">
+          <p class="p-contact_block_error"></p>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">ご担当者様お名前<span class="required">*</span></p>
+          <input type="text" name="entry.981337888" placeholder="お名前を入力してください">
+          <p class="p-contact_block_error"></p>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">メールアドレス<span class="required">*</span></p>
+          <input type="email" name="entry.198853378" placeholder="メールアドレスを入力してください">
+          <p class="p-contact_block_error"></p>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">電話番号</p>
+          <input type="tel" name="entry.1937951044" placeholder="電話番号を入力してください">
+        </div>
+
+        <div class="p-contact_blocks">
+          <div class="p-contact_block">
+            <p class="p-contact_block_label">所在地（国）<span class="required">*</span></p>
+            <select name="entry.207841578">
+              <option value="" disabled selected>選択してください</option>
+              <option value="日本">日本</option>
+              <option value="アフガニスタン">アフガニスタン</option>
+              <option value="アルバニア">アルバニア</option>
+              <option value="アルジェリア">アルジェリア</option>
+              <option value="アンドラ">アンドラ</option>
+              <option value="アンゴラ">アンゴラ</option>
+              <option value="アンティグア・バーブーダ">アンティグア・バーブーダ</option>
+              <option value="アルゼンチン">アルゼンチン</option>
+              <option value="アルメニア">アルメニア</option>
+              <option value="オーストラリア">オーストラリア</option>
+              <option value="オーストリア">オーストリア</option>
+              <option value="アゼルバイジャン">アゼルバイジャン</option>
+              <option value="バハマ">バハマ</option>
+              <option value="バーレーン">バーレーン</option>
+              <option value="バングラデシュ">バングラデシュ</option>
+              <option value="バルバドス">バルバドス</option>
+              <option value="ベラルーシ">ベラルーシ</option>
+              <option value="ベルギー">ベルギー</option>
+              <option value="ベリーズ">ベリーズ</option>
+              <option value="ベナン">ベナン</option>
+              <option value="ブータン">ブータン</option>
+              <option value="ボリビア">ボリビア</option>
+              <option value="ボスニア・ヘルツェゴビナ">ボスニア・ヘルツェゴビナ</option>
+              <option value="ボツワナ">ボツワナ</option>
+              <option value="ブラジル">ブラジル</option>
+              <option value="ブルネイ">ブルネイ</option>
+              <option value="ブルガリア">ブルガリア</option>
+              <option value="ブルキナファソ">ブルキナファソ</option>
+              <option value="ブルンジ">ブルンジ</option>
+              <option value="カーボベルデ">カーボベルデ</option>
+              <option value="カンボジア">カンボジア</option>
+              <option value="カメルーン">カメルーン</option>
+              <option value="カナダ">カナダ</option>
+              <option value="中央アフリカ共和国">中央アフリカ共和国</option>
+              <option value="チャド">チャド</option>
+              <option value="チリ">チリ</option>
+              <option value="中国">中国</option>
+              <option value="コロンビア">コロンビア</option>
+              <option value="コモロ">コモロ</option>
+              <option value="コンゴ共和国">コンゴ共和国</option>
+              <option value="コンゴ民主共和国">コンゴ民主共和国</option>
+              <option value="コスタリカ">コスタリカ</option>
+              <option value="クロアチア">クロアチア</option>
+              <option value="キューバ">キューバ</option>
+              <option value="キプロス">キプロス</option>
+              <option value="チェコ">チェコ</option>
+              <option value="デンマーク">デンマーク</option>
+              <option value="ジブチ">ジブチ</option>
+              <option value="ドミニカ国">ドミニカ国</option>
+              <option value="ドミニカ共和国">ドミニカ共和国</option>
+              <option value="エクアドル">エクアドル</option>
+              <option value="エジプト">エジプト</option>
+              <option value="エルサルバドル">エルサルバドル</option>
+              <option value="赤道ギニア">赤道ギニア</option>
+              <option value="エリトリア">エリトリア</option>
+              <option value="エストニア">エストニア</option>
+              <option value="エスワティニ">エスワティニ</option>
+              <option value="エチオピア">エチオピア</option>
+              <option value="フィジー">フィジー</option>
+              <option value="フィンランド">フィンランド</option>
+              <option value="フランス">フランス</option>
+              <option value="ガボン">ガボン</option>
+              <option value="ガンビア">ガンビア</option>
+              <option value="ジョージア">ジョージア</option>
+              <option value="ドイツ">ドイツ</option>
+              <option value="ガーナ">ガーナ</option>
+              <option value="ギリシャ">ギリシャ</option>
+              <option value="グレナダ">グレナダ</option>
+              <option value="グアテマラ">グアテマラ</option>
+              <option value="ギニア">ギニア</option>
+              <option value="ギニアビサウ">ギニアビサウ</option>
+              <option value="ガイアナ">ガイアナ</option>
+              <option value="ハイチ">ハイチ</option>
+              <option value="ホンジュラス">ホンジュラス</option>
+              <option value="ハンガリー">ハンガリー</option>
+              <option value="アイスランド">アイスランド</option>
+              <option value="インド">インド</option>
+              <option value="インドネシア">インドネシア</option>
+              <option value="イラン">イラン</option>
+              <option value="イラク">イラク</option>
+              <option value="アイルランド">アイルランド</option>
+              <option value="イスラエル">イスラエル</option>
+              <option value="イタリア">イタリア</option>
+              <option value="ジャマイカ">ジャマイカ</option>
+              <option value="ヨルダン">ヨルダン</option>
+              <option value="カザフスタン">カザフスタン</option>
+              <option value="ケニア">ケニア</option>
+              <option value="キリバス">キリバス</option>
+              <option value="朝鮮民主主義人民共和国（北朝鮮）">朝鮮民主主義人民共和国（北朝鮮）</option>
+              <option value="大韓民国（韓国）">大韓民国（韓国）</option>
+              <option value="クウェート">クウェート</option>
+              <option value="キルギス">キルギス</option>
+              <option value="ラオス">ラオス</option>
+              <option value="ラトビア">ラトビア</option>
+              <option value="レバノン">レバノン</option>
+              <option value="レソト">レソト</option>
+              <option value="リベリア">リベリア</option>
+              <option value="リビア">リビア</option>
+              <option value="リヒテンシュタイン">リヒテンシュタイン</option>
+              <option value="リトアニア">リトアニア</option>
+              <option value="ルクセンブルク">ルクセンブルク</option>
+              <option value="マダガスカル">マダガスカル</option>
+              <option value="マラウイ">マラウイ</option>
+              <option value="マレーシア">マレーシア</option>
+              <option value="モルディブ">モルディブ</option>
+              <option value="マリ">マリ</option>
+              <option value="マルタ">マルタ</option>
+              <option value="マーシャル諸島">マーシャル諸島</option>
+              <option value="モーリタニア">モーリタニア</option>
+              <option value="モーリシャス">モーリシャス</option>
+              <option value="メキシコ">メキシコ</option>
+              <option value="ミクロネシア">ミクロネシア</option>
+              <option value="モルドバ">モルドバ</option>
+              <option value="モナコ">モナコ</option>
+              <option value="モンゴル">モンゴル</option>
+              <option value="モンテネグロ">モンテネグロ</option>
+              <option value="モロッコ">モロッコ</option>
+              <option value="モザンビーク">モザンビーク</option>
+              <option value="ミャンマー">ミャンマー</option>
+              <option value="ナミビア">ナミビア</option>
+              <option value="ネパール">ネパール</option>
+              <option value="オランダ">オランダ</option>
+              <option value="ニュージーランド">ニュージーランド</option>
+              <option value="ニカラグア">ニカラグア</option>
+              <option value="ニジェール">ニジェール</option>
+              <option value="ナイジェリア">ナイジェリア</option>
+              <option value="北マケドニア">北マケドニア</option>
+              <option value="ノルウェー">ノルウェー</option>
+              <option value="オマーン">オマーン</option>
+              <option value="パキスタン">パキスタン</option>
+              <option value="パラオ">パラオ</option>
+              <option value="パナマ">パナマ</option>
+              <option value="パプアニューギニア">パプアニューギニア</option>
+              <option value="パラグアイ">パラグアイ</option>
+              <option value="ペルー">ペルー</option>
+              <option value="フィリピン">フィリピン</option>
+              <option value="ポーランド">ポーランド</option>
+              <option value="ポルトガル">ポルトガル</option>
+              <option value="香港">香港</option>
+              <option value="カタール">カタール</option>
+              <option value="ルーマニア">ルーマニア</option>
+              <option value="ロシア">ロシア</option>
+              <option value="ルワンダ">ルワンダ</option>
+              <option value="セントクリストファー・ネーヴィス">セントクリストファー・ネーヴィス</option>
+              <option value="セントルシア">セントルシア</option>
+              <option value="セントビンセントおよびグレナディーン諸島">セントビンセントおよびグレナディーン諸島</option>
+              <option value="サモア">サモア</option>
+              <option value="サンマリノ">サンマリノ</option>
+              <option value="サントメ・プリンシペ">サントメ・プリンシペ</option>
+              <option value="サウジアラビア">サウジアラビア</option>
+              <option value="セネガル">セネガル</option>
+              <option value="セルビア">セルビア</option>
+              <option value="セーシェル">セーシェル</option>
+              <option value="シエラレオネ">シエラレオネ</option>
+              <option value="シンガポール">シンガポール</option>
+              <option value="スロバキア">スロバキア</option>
+              <option value="スロベニア">スロベニア</option>
+              <option value="ソロモン諸島">ソロモン諸島</option>
+              <option value="ソマリア">ソマリア</option>
+              <option value="南アフリカ">南アフリカ</option>
+              <option value="南スーダン">南スーダン</option>
+              <option value="スペイン">スペイン</option>
+              <option value="スリランカ">スリランカ</option>
+              <option value="スーダン">スーダン</option>
+              <option value="スリナム">スリナム</option>
+              <option value="スウェーデン">スウェーデン</option>
+              <option value="スイス">スイス</option>
+              <option value="シリア">シリア</option>
+              <option value="タジキスタン">タジキスタン</option>
+              <option value="タンザニア">タンザニア</option>
+              <option value="タイ">タイ</option>
+              <option value="東ティモール">東ティモール</option>
+              <option value="トーゴ">トーゴ</option>
+              <option value="トンガ">トンガ</option>
+              <option value="トリニダード・トバゴ">トリニダード・トバゴ</option>
+              <option value="チュニジア">チュニジア</option>
+              <option value="トルコ">トルコ</option>
+              <option value="トルクメニスタン">トルクメニスタン</option>
+              <option value="ツバル">ツバル</option>
+              <option value="ウガンダ">ウガンダ</option>
+              <option value="ウクライナ">ウクライナ</option>
+              <option value="アラブ首長国連邦">アラブ首長国連邦</option>
+              <option value="イギリス">イギリス</option>
+              <option value="アメリカ合衆国">アメリカ合衆国</option>
+              <option value="ウルグアイ">ウルグアイ</option>
+              <option value="ウズベキスタン">ウズベキスタン</option>
+              <option value="バヌアツ">バヌアツ</option>
+              <option value="バチカン市国">バチカン市国</option>
+              <option value="ベネズエラ">ベネズエラ</option>
+              <option value="ベトナム">ベトナム</option>
+              <option value="イエメン">イエメン</option>
+              <option value="ザンビア">ザンビア</option>
+              <option value="ジンバブエ">ジンバブエ</option>
+            </select>
+            <p class="p-contact_block_error"></p>
+          </div>
+          <div class="p-contact_block">
+            <p class="p-contact_block_label">所在地（都道府県）</p>
+            <select name="entry.2020019364">
+              <option value="" disabled selected>選択してください</option>
+              <option value="北海道">北海道</option>
+              <option value="青森県">青森県</option>
+              <option value="岩手県">岩手県</option>
+              <option value="宮城県">宮城県</option>
+              <option value="秋田県">秋田県</option>
+              <option value="山形県">山形県</option>
+              <option value="福島県">福島県</option>
+              <option value="群馬県">群馬県</option>
+              <option value="栃木県">栃木県</option>
+              <option value="茨城県">茨城県</option>
+              <option value="埼玉県">埼玉県</option>
+              <option value="千葉県">千葉県</option>
+              <option value="東京都">東京都</option>
+              <option value="神奈川県">神奈川県</option>
+              <option value="新潟県">新潟県</option>
+              <option value="富山県">富山県</option>
+              <option value="石川県">石川県</option>
+              <option value="福井県">福井県</option>
+              <option value="山梨県">山梨県</option>
+              <option value="長野県">長野県</option>
+              <option value="岐阜県">岐阜県</option>
+              <option value="静岡県">静岡県</option>
+              <option value="愛知県">愛知県</option>
+              <option value="三重県">三重県</option>
+              <option value="滋賀県">滋賀県</option>
+              <option value="京都府">京都府</option>
+              <option value="大阪府">大阪府</option>
+              <option value="兵庫県">兵庫県</option>
+              <option value="奈良県">奈良県</option>
+              <option value="和歌山県">和歌山県</option>
+              <option value="鳥取県">鳥取県</option>
+              <option value="島根県">島根県</option>
+              <option value="岡山県">岡山県</option>
+              <option value="広島県">広島県</option>
+              <option value="山口県">山口県</option>
+              <option value="徳島県">徳島県</option>
+              <option value="香川県">香川県</option>
+              <option value="愛媛県">愛媛県</option>
+              <option value="高知県">高知県</option>
+              <option value="福岡県">福岡県</option>
+              <option value="佐賀県">佐賀県</option>
+              <option value="長崎県">長崎県</option>
+              <option value="熊本県">熊本県</option>
+              <option value="大分県">大分県</option>
+              <option value="宮崎県">宮崎県</option>
+              <option value="鹿児島県">鹿児島県</option>
+              <option value="沖縄県">沖縄県</option>
+            </select>
+            <p class="p-contact_block_error"></p>
+          </div>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">お問合せ内容<span class="required">*</span></p>
+          <div class="p-contact_block_radio">
+            <label><input type="checkbox" name="entry.72400018"
+                value="サービス詳細を知りたい（資料送付希望）"><span>サービス詳細を知りたい（資料送付希望）</span></label>
+            <label><input type="checkbox" name="entry.72400018" value="無料相談を希望"><span>無料相談を希望</span></label>
+            <label><input type="checkbox" name="entry.72400018" value="__other_option__"
+                class="js-other"><span>その他</span></label>
+            <input type="text" name="entry.72400018.other_option_response" class="js-otherInput" style="display:none">
+            <p class="p-contact_block_error"></p>
+          </div>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">弊社の他サービスについてもお問い合わせをご希望の場合は、下記よりご選択ください。</p>
+          <div class="p-contact_block_radio">
+            <label><input type="checkbox" name="entry.1613326531"
+                value="AmaNavi（Amazon進出サポート）"><span>AmaNavi（Amazon進出サポート）</span></label>
+            <label><input type="checkbox" name="entry.1613326531"
+                value="SLCサービス（米AmazonFBA向け物流サービス）"><span>SLCサービス（米AmazonFBA向け物流サービス）</span></label>
+            <label><input type="checkbox" name="entry.1613326531"
+                value="Allynair（海外発送サービス）"><span>Allynair（海外発送サービス）</span></label>
+            <label><input type="checkbox" name="entry.1613326531"
+                value="SHiFT塾（米Amazon輸出ビジネスコンサル）"><span>SHiFT塾（米Amazon輸出ビジネスコンサル）</span></label>
+          </div>
+        </div>
+
+        <div class="p-contact_blocks">
+          <div class="p-contact_block">
+            <p class="p-contact_block_label">輸出予定の商材数・種類<span class="required">*</span></p>
+            <select name="entry.126178052">
+              <option value="">選択してください</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select>
+            <p class="p-contact_block_error"></p>
+          </div>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">商品カテゴリー（複数選択可）<span class="required">*</span></p>
+          <div class="p-contact_block_checkbox">
+            <label><input type="checkbox" name="entry.1037914294" value="食品・飲料"><span>食品・飲料</span></label>
+            <label><input type="checkbox" name="entry.1037914294" value="化粧品・美容"><span>化粧品・美容</span></label>
+            <label><input type="checkbox" name="entry.1037914294" value="健康食品"><span>健康食品</span></label>
+            <label><input type="checkbox" name="entry.1037914294" value="雑貨・日用品"><span>雑貨・日用品</span></label>
+            <label><input type="checkbox" name="entry.1037914294" value="医薬品・医療機器"><span>医薬品・医療機器</span></label>
+            <label><input type="checkbox" name="entry.1037914294" value="__other_option__"
+                class="js-other"><span>その他</span></label>
+            <input type="text" name="entry.78553657.other_option_response" class="js-otherInput" style="display:none">
+            <p class="p-contact_block_error"></p>
+          </div>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">その他</p>
+          <textarea name="entry.187579879" placeholder="ご相談やご質問がありましたらご自由にご記入ください。"></textarea>
+        </div>
+
+        <div class="p-contact_block">
+          <p class="p-contact_block_label">このサービスをどのように知りましたか？（複数選択可） </p>
+          <div class="p-contact_block_checkbox">
+            <label><input type="checkbox" name="entry.78553657" value="Google検索"><span>Google検索</span></label>
+            <label><input type="checkbox" name="entry.78553657"
+                value="ChatGPTなどのAI検索"><span>ChatGPTなどのAIで検索中に知った</span></label>
+            <label><input type="checkbox" name="entry.78553657" value="知人・友人の紹介"><span>知人・友人の紹介</span></label>
+            <label><input type="checkbox" name="entry.78553657" value="SNS"><span>SNS</span></label>
+            <label><input type="checkbox" name="entry.78553657" value="パンフレット"><span>パンフレット</span></label>
+            <label><input type="checkbox" name="entry.78553657"
+                value="過去に他のサービスを利用したことがある"><span>過去に他のサービスを利用したことがある</span></label>
+            <label><input type="checkbox" name="entry.78553657" value="__other_option__"
+                class="js-other"><span>その他</span></label>
+            <input type="text" name="entry.78553657.other_option_response" class="js-otherInput" style="display:none">
+          </div>
+        </div>
+
+        <div class="p-contact_agree">
+          <label>
+            <input type="checkbox" class="js-agree" name="entry.1962600294" value="はい"><span><a
+                href="https://drive.google.com/file/d/1USJQgXbj3VHDpba925tRksNZdUrTYLoZ/view"
+                target="_blank">プライバシーポリシー</a>に同意する<span class="required">*</span></span>
+          </label>
+
+        </div>
+
+        <button type="submit" class="c-btn">送信</button>
+
+        
+        <input type="hidden" name="fvv" value="1">
+        <input type="hidden" name="fbzx" value="-8153719129897180448">
+        <input type="hidden" name="pageHistory" value="0">
+      </form> -->
+    </hgroup>
+
+    <footer class="l-footer">Copyright© World Shift Co., Ltd All Rights Reserved.</footer>
+  </section>
+</body>
+
+</html>
