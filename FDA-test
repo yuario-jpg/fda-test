@@ -1,6 +1,498 @@
-<iframe
-  src="https://script.google.com/macros/s/AKfycbz119Z1zSBQpKWWdiY4m9ZA-XrVRvGH74issv7S7l16oJdbo91Z-wWHa45tOH38ypO3/exec"
-  width="100%"
-  height="760"
-  style="border:none; border-radius:16px;">
-</iframe>
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>FDA無料相談予約</title>
+
+<style>
+#fda-booking * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 24px;
+  background: #f4f7fb;
+  font-family: Arial, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+}
+
+#fda-booking {
+  max-width: 1080px;
+  margin: 0 auto;
+  color: #1f2937;
+}
+
+#fda-booking .fda-card {
+  background: #ffffff;
+  border: 1px solid #dbeafe;
+  border-radius: 22px;
+  padding: 32px;
+  box-shadow: 0 12px 32px rgba(30, 64, 175, 0.08);
+}
+
+#fda-booking .fda-label {
+  display: inline-block;
+  margin: 0 0 12px;
+  padding: 6px 13px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+#fda-booking h2 {
+  margin: 0 0 8px;
+  font-size: 28px;
+  line-height: 1.4;
+}
+
+#fda-booking .fda-lead {
+  margin: 0 0 24px;
+  color: #4b5563;
+  line-height: 1.8;
+}
+
+#fda-booking .week-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin: 22px 0 16px;
+}
+
+#fda-booking .week-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: #1e3a8a;
+}
+
+#fda-booking .week-nav button {
+  width: auto;
+  min-width: 110px;
+  padding: 10px 14px;
+  border: 1px solid #93c5fd;
+  background: #ffffff;
+  color: #1d4ed8;
+  border-radius: 999px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+#fda-booking .week-nav button:hover {
+  background: #eff6ff;
+}
+
+#fda-booking .calendar-wrap {
+  overflow-x: auto;
+  border: 1px solid #e5e7eb;
+  border-radius: 16px;
+}
+
+#fda-booking table {
+  width: 100%;
+  min-width: 760px;
+  border-collapse: collapse;
+  background: #ffffff;
+}
+
+#fda-booking th,
+#fda-booking td {
+  border-bottom: 1px solid #e5e7eb;
+  border-right: 1px solid #e5e7eb;
+  padding: 12px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#fda-booking th:last-child,
+#fda-booking td:last-child {
+  border-right: none;
+}
+
+#fda-booking thead th {
+  background: #eff6ff;
+  color: #1e40af;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+#fda-booking .time-cell {
+  width: 120px;
+  background: #f8fafc;
+  color: #475569;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+#fda-booking .slot-btn {
+  width: 100%;
+  padding: 10px 8px;
+  background: #2563eb;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+#fda-booking .slot-btn:hover {
+  background: #1d4ed8;
+}
+
+#fda-booking .slot-none {
+  display: inline-block;
+  color: #cbd5e1;
+  font-size: 13px;
+}
+
+#fda-booking .fda-form {
+  display: none;
+  margin-top: 28px;
+  padding: 24px;
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 18px;
+}
+
+#fda-booking .fda-form h3 {
+  margin: 0 0 12px;
+  font-size: 20px;
+}
+
+#fda-booking .selected-slot {
+  margin: 0 0 16px;
+  padding: 12px 14px;
+  background: #eff6ff;
+  border-left: 4px solid #2563eb;
+  color: #1e40af;
+  font-weight: 700;
+}
+
+#fda-booking .form-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+#fda-booking input,
+#fda-booking textarea {
+  width: 100%;
+  padding: 13px 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  font-size: 15px;
+  background: #ffffff;
+}
+
+#fda-booking textarea {
+  grid-column: 1 / -1;
+  min-height: 120px;
+  resize: vertical;
+}
+
+#fda-booking .submit-btn {
+  width: 100%;
+  margin-top: 14px;
+  padding: 15px 20px;
+  background: #2563eb;
+  color: #ffffff;
+  border: none;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+#fda-booking .submit-btn:hover {
+  background: #1d4ed8;
+}
+
+#fda-booking .notice {
+  padding: 16px;
+  background: #f8fafc;
+  border-radius: 12px;
+  color: #475569;
+}
+
+@media (max-width: 768px) {
+  body {
+    padding: 12px;
+  }
+
+  #fda-booking .fda-card {
+    padding: 22px;
+  }
+
+  #fda-booking h2 {
+    font-size: 23px;
+  }
+
+  #fda-booking .week-nav {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  #fda-booking .week-title {
+    text-align: center;
+  }
+
+  #fda-booking .form-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<div id="fda-booking">
+  <div class="fda-card">
+    <p class="fda-label">無料相談予約</p>
+    <h2>FDA対応について相談する</h2>
+    <p class="fda-lead">ご希望の日時を選択し、必要事項をご入力ください。空き枠は週ごとに確認できます。</p>
+
+    <div class="week-nav">
+      <button type="button" id="prev-week">前の週</button>
+      <div id="week-title" class="week-title">読み込み中</div>
+      <button type="button" id="next-week">次の週</button>
+    </div>
+
+    <div id="calendar-area" class="calendar-wrap">
+      <div class="notice">空き枠を読み込み中です...</div>
+    </div>
+
+    <form id="booking-form" class="fda-form">
+      <h3>予約情報の入力</h3>
+      <p id="selected-slot-text" class="selected-slot"></p>
+
+      <input type="hidden" name="date">
+      <input type="hidden" name="time">
+      <input type="hidden" name="row">
+      <input type="hidden" name="col">
+
+      <div class="form-grid">
+        <input name="company" placeholder="会社名" required>
+        <input name="name" placeholder="担当者名" required>
+        <input name="email" type="email" placeholder="メールアドレス" required>
+        <input name="phone" placeholder="電話番号">
+        <textarea name="message" placeholder="相談内容" required></textarea>
+      </div>
+
+      <button type="submit" class="submit-btn">この日時で予約する</button>
+    </form>
+  </div>
+</div>
+
+<script>
+const GAS_URL = "https://script.google.com/macros/s/AKfycbyYs-NPYzKrUFPzMZOKfDDXR47TP0mIVk8xYaUvPuqlJV84fs6OIyLeM1z6E24TQPSfkQ/exec";
+
+let allSlots = [];
+let currentWeekStart = getMonday(new Date());
+
+function parseDate(dateText) {
+  const normalized = String(dateText).replaceAll("-", "/");
+  const parts = normalized.split("/").map(Number);
+  return new Date(parts[0], parts[1] - 1, parts[2]);
+}
+
+function formatDate(date) {
+  const y = date.getFullYear();
+  const m = String(date.getMonth() + 1).padStart(2, "0");
+  const d = String(date.getDate()).padStart(2, "0");
+  return `${y}/${m}/${d}`;
+}
+
+function formatShortDate(date) {
+  return `${date.getMonth() + 1}/${date.getDate()}`;
+}
+
+function getMonday(date) {
+  const d = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+  const day = d.getDay();
+  const diff = day === 0 ? -6 : 1 - day;
+  d.setDate(d.getDate() + diff);
+  return d;
+}
+
+function addDays(date, days) {
+  const d = new Date(date);
+  d.setDate(d.getDate() + days);
+  return d;
+}
+
+function sameDate(a, b) {
+  return formatDate(a) === formatDate(b);
+}
+
+async function loadSlots() {
+  const calendarArea = document.getElementById("calendar-area");
+  calendarArea.innerHTML = '<div class="notice">空き枠を読み込み中です...</div>';
+
+  try {
+    const res = await fetch(GAS_URL + "?action=slots");
+    const data = await res.json();
+
+    if (!data.success || !data.slots) {
+      calendarArea.innerHTML = '<div class="notice">空き枠の読み込みに失敗しました。</div>';
+      return;
+    }
+
+    allSlots = data.slots.map(slot => ({
+      ...slot,
+      dateObj: parseDate(slot.date)
+    }));
+
+    if (allSlots.length > 0) {
+      const earliest = allSlots
+        .map(slot => slot.dateObj)
+        .sort((a, b) => a - b)[0];
+
+      currentWeekStart = getMonday(earliest);
+    }
+
+    renderWeek();
+
+  } catch (error) {
+    calendarArea.innerHTML = `<div class="notice">空き枠の読み込みに失敗しました。<br>${error.message}</div>`;
+  }
+}
+
+function renderWeek() {
+  const weekDates = Array.from({ length: 5 }, (_, i) => addDays(currentWeekStart, i));
+  const weekEnd = weekDates[4];
+
+  document.getElementById("week-title").textContent =
+    `${formatShortDate(currentWeekStart)} - ${formatShortDate(weekEnd)}`;
+
+  const weekSlots = allSlots.filter(slot =>
+    weekDates.some(date => sameDate(slot.dateObj, date))
+  );
+
+  const times = [...new Set(weekSlots.map(slot => slot.time))];
+
+  const calendarArea = document.getElementById("calendar-area");
+
+  if (times.length === 0) {
+    calendarArea.innerHTML = '<div class="notice">この週に予約可能な枠はありません。</div>';
+    return;
+  }
+
+  let html = `
+    <table>
+      <thead>
+        <tr>
+          <th>時間</th>
+          ${weekDates.map(date => `<th>${formatShortDate(date)}</th>`).join("")}
+        </tr>
+      </thead>
+      <tbody>
+  `;
+
+  times.forEach(time => {
+    html += `<tr><td class="time-cell">${time}</td>`;
+
+    weekDates.forEach(date => {
+      const slot = weekSlots.find(s => s.time === time && sameDate(s.dateObj, date));
+
+      if (slot) {
+        const encoded = encodeURIComponent(JSON.stringify({
+          date: slot.date,
+          time: slot.time,
+          row: slot.row,
+          col: slot.col
+        }));
+
+        html += `
+          <td>
+            <button type="button" class="slot-btn" data-slot="${encoded}">予約可</button>
+          </td>
+        `;
+      } else {
+        html += `<td><span class="slot-none">－</span></td>`;
+      }
+    });
+
+    html += `</tr>`;
+  });
+
+  html += "</tbody></table>";
+  calendarArea.innerHTML = html;
+
+  document.querySelectorAll("#fda-booking .slot-btn").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const slot = JSON.parse(decodeURIComponent(btn.dataset.slot));
+      selectSlot(slot);
+    });
+  });
+}
+
+function selectSlot(slot) {
+  const form = document.getElementById("booking-form");
+
+  form.style.display = "block";
+  form.date.value = slot.date;
+  form.time.value = slot.time;
+  form.row.value = slot.row;
+  form.col.value = slot.col;
+
+  document.getElementById("selected-slot-text").textContent =
+    `選択中：${slot.date} ${slot.time}`;
+
+  form.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+document.getElementById("prev-week").addEventListener("click", () => {
+  currentWeekStart = addDays(currentWeekStart, -7);
+  renderWeek();
+});
+
+document.getElementById("next-week").addEventListener("click", () => {
+  currentWeekStart = addDays(currentWeekStart, 7);
+  renderWeek();
+});
+
+document.getElementById("booking-form").addEventListener("submit", async function(e) {
+  e.preventDefault();
+
+  const submitBtn = e.target.querySelector(".submit-btn");
+  submitBtn.disabled = true;
+  submitBtn.textContent = "送信中...";
+
+  const payload = Object.fromEntries(new FormData(e.target).entries());
+
+  try {
+    const res = await fetch(GAS_URL, {
+      method: "POST",
+      body: JSON.stringify(payload)
+    });
+
+    const result = await res.json();
+
+    if (result.success) {
+      alert("予約を受け付けました。");
+      e.target.reset();
+      e.target.style.display = "none";
+      loadSlots();
+    } else {
+      alert(result.message || "予約に失敗しました。");
+    }
+
+  } catch (error) {
+    alert("通信エラーが発生しました。");
+  }
+
+  submitBtn.disabled = false;
+  submitBtn.textContent = "この日時で予約する";
+});
+
+loadSlots();
+</script>
+
+</body>
+</html>
