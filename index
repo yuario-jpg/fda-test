@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -217,6 +221,45 @@ body {
   color: #475569;
 }
 
+#fda-booking .thanks-box {
+  display: none;
+  margin-top: 28px;
+  padding: 26px;
+  background: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  border-radius: 18px;
+}
+
+#fda-booking .thanks-box h3 {
+  margin: 0 0 10px;
+  font-size: 22px;
+  color: #166534;
+}
+
+#fda-booking .thanks-box p {
+  margin: 0 0 12px;
+  color: #374151;
+  line-height: 1.8;
+}
+
+#fda-booking .thanks-box .reserved-detail {
+  margin: 14px 0;
+  padding: 12px 14px;
+  background: #ffffff;
+  border-left: 4px solid #22c55e;
+  border-radius: 10px;
+  color: #166534;
+  font-weight: 700;
+}
+
+
+#fda-booking .thanks-box .small {
+  margin-top: 14px;
+  font-size: 13px;
+  color: #64748b;
+}
+
+
 @media (max-width: 768px) {
   body {
     padding: 12px;
@@ -277,17 +320,27 @@ body {
         <input name="company" placeholder="会社名" required>
         <input name="name" placeholder="担当者名" required>
         <input name="email" type="email" placeholder="メールアドレス" required>
-        <input name="phone" placeholder="電話番号">
-        <textarea name="message" placeholder="相談内容" required></textarea>
       </div>
 
       <button type="submit" class="submit-btn">この日時で予約する</button>
     </form>
+
+    <div id="booking-thanks" class="thanks-box">
+      <h3>ご予約ありがとうございます</h3>
+      <p>無料相談のご予約を受け付けました。</p>
+      <div id="reserved-detail" class="reserved-detail"></div>
+      <p>確認メールを送信しています。</p>
+      <p>
+        当日の相談をスムーズに進めるため、事前ヒアリングシートのご入力をお願いいたします。<br>
+        （所要時間は約5分）
+      </p>
+    </div>
   </div>
 </div>
 
 <script>
 const GAS_URL = "https://script.google.com/macros/s/AKfycbyYs-NPYzKrUFPzMZOKfDDXR47TP0mIVk8xYaUvPuqlJV84fs6OIyLeM1z6E24TQPSfkQ/exec";
+
 
 let allSlots = [];
 let currentWeekStart = getMonday(new Date());
@@ -431,7 +484,9 @@ function renderWeek() {
 
 function selectSlot(slot) {
   const form = document.getElementById("booking-form");
+  const thanksBox = document.getElementById("booking-thanks");
 
+  thanksBox.style.display = "none";
   form.style.display = "block";
   form.date.value = slot.date;
   form.time.value = slot.time;
@@ -472,9 +527,22 @@ document.getElementById("booking-form").addEventListener("submit", async functio
     const result = await res.json();
 
     if (result.success) {
-      alert("予約を受け付けました。");
+      const reservedDate = payload.date;
+      const reservedTime = payload.time;
+
       e.target.reset();
       e.target.style.display = "none";
+
+      document.getElementById("reserved-detail").textContent =
+        `ご予約日時：${reservedDate} ${reservedTime}`;
+
+
+      document.getElementById("booking-thanks").style.display = "block";
+      document.getElementById("booking-thanks").scrollIntoView({
+        behavior: "smooth",
+        block: "start"
+      });
+
       loadSlots();
     } else {
       alert(result.message || "予約に失敗しました。");
